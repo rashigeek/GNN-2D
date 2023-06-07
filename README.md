@@ -1,5 +1,5 @@
 # GNN-2D
-This repository is dedicated to using Graph Neural Networks to study tthe properties of 2D materials. Specifically, I am using the [ALIGNN (The Atomistic Line Graph Neural Network)](https://github.com/usnistgov/alignn) model developed at NIST to study the 2D materials included in the [C2DB (Computational 2D Materials Database)](https://cmr.fysik.dtu.dk/c2db/c2db.html). So far, I have acheived promising results in relaxing 2D structures without retraining the model. 
+This repository is dedicated to using Graph Neural Networks to study the properties of 2D materials. Specifically, I am using the [ALIGNN (The Atomistic Line Graph Neural Network)](https://github.com/usnistgov/alignn) model developed at NIST to study the 2D monolayers included in the [C2DB (Computational 2D Materials Database)](https://cmr.fysik.dtu.dk/c2db/c2db.html). So far, I have acheived promising results in relaxing 2D structures without retraining the model. 
 
 Working with this code requires that you ask for permission to get access to C2DB. Once you have done that, the code should work. 
 
