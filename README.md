@@ -3,7 +3,7 @@ This repository is dedicated to using Graph Neural Networks to study tthe proper
 
 Working with this code requires that you ask for permission to get access to C2DB. Once you have done that, the code should work. 
 
-My work thus far can be found in the Jupyter notebook named **ALIGNN-2D-relax**.
+My work thus far can be found in the Jupyter notebook named **ALIGNN_2D_relax**.
 
 I will update this repo as I make more progress with GNN's.
 
